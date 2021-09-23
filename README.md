@@ -3,14 +3,14 @@
 ## Linear Regression to Predict MPG
 ![Linear_Regression_MPG](https://user-images.githubusercontent.com/82982832/134444755-2be9867a-da8d-4e79-9a14-fa06e24ce1bc.png)
 
-The variables Vehicle Length, Vehicle Weight, and Ground Clearance provided a non-random amount of variance to the Miles Per Gallon values in the dataset.
+The variables Vehicle Length, Vehicle Weight, and Ground Clearance provided a non-random amount of variance to the Miles Per Gallon values in the dataset. The slope would not be considered zero, the r-squared is closer to one, indicating a positive corelation.
 
 ## Summary Statistics on Suspension Coils
 ![total_summary](https://user-images.githubusercontent.com/82982832/134447297-373b8abc-e948-4698-802f-7f760a9e38e5.png)
 
 ![Lot_summary](https://user-images.githubusercontent.com/82982832/134447385-188d7075-9415-4373-98b4-b4d232ad0e08.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. If the measure is on the total amount of coils then they are within compliance. However, if the measure is based off of the seperate lots, then Lot number 3 falls outside of the compliant range with a variance of over 170.
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. If the measure is on the total amount of coils then they are within compliance. However, if the measure is based off of the seperate lots, then Lot number 3 falls outside of the compliant range with a variance of over 170, the other two Lots are within compliance.
 
 ## T-Tests on Suspension Coils
 ![total_ttest](https://user-images.githubusercontent.com/82982832/134449811-19085415-a924-437b-a146-dafb4d46c2a3.png)
